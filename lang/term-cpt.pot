@@ -1,0 +1,77 @@
+# Copyright (C) 2025 Prometheus
+# This file is distributed under the MIT.
+msgid ""
+msgstr ""
+"Project-Id-Version: Term CPT 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/term-cpt\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-04-24T21:50:54+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: term-cpt\n"
+
+#. Plugin Name of the plugin
+#: index.php
+msgid "Term CPT"
+msgstr ""
+
+#. Author of the plugin
+#: index.php
+msgid "Prometheus"
+msgstr ""
+
+#: inc/class-admin.php:35
+msgid "Term Details"
+msgstr ""
+
+#: inc/class-termposttype.php:12
+msgctxt "post type general name"
+msgid "Terms"
+msgstr ""
+
+#: inc/class-termposttype.php:13
+msgctxt "post type singular name"
+msgid "Term"
+msgstr ""
+
+#: inc/class-termposttype.php:14
+msgctxt "admin menu"
+msgid "Term"
+msgstr ""
+
+#: inc/class-termposttype.php:15
+msgctxt "database"
+msgid "Add New"
+msgstr ""
+
+#: inc/class-termposttype.php:16
+msgid "Add New Term"
+msgstr ""
+
+#: inc/class-termposttype.php:17
+msgid "Edit Term"
+msgstr ""
+
+#: inc/class-termposttype.php:18
+msgid "New Term"
+msgstr ""
+
+#: inc/class-termposttype.php:19
+msgid "View Term"
+msgstr ""
+
+#: inc/class-termposttype.php:20
+msgid "Search Terms"
+msgstr ""
+
+#: inc/class-termposttype.php:21
+msgid "No terms found"
+msgstr ""
+
+#: inc/class-termposttype.php:22
+msgid "No terms found in trash"
+msgstr ""

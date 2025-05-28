@@ -1,5 +1,5 @@
 {
-    "name": "rusaggression/terms-cpt",
+    "name": "rusaggression/term-cpt",
     "type": "wordpress-plugin",
     "license": "MIT",
     "autoload": {

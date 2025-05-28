@@ -1,5 +1,5 @@
 {
-    "name": "prometheus/terms-cpt",
+    "name": "rusaggression/terms-cpt",
     "type": "wordpress-plugin",
     "license": "MIT",
     "autoload": {
